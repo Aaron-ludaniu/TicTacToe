@@ -2,7 +2,8 @@ Tic Tac Toe
 
 Project Overview
 
-    Tic Tac Toe is a classic two-player game where players take turns marking spaces on a 3x3 grid. The objective is to form a line of three matching symbols (X or O) horizontally, vertically, 
+    Tic Tac Toe is a classic two-player game where players take turns marking spaces on a 3x3 grid. 
+    The objective is to form a line of three matching symbols (X or O) horizontally, vertically, 
     or diagonally before your opponent does. This project provides a simple and interactive implementation of the game.
 
 Features
